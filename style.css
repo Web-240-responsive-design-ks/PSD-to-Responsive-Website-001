@@ -27,7 +27,7 @@
   header h1 {
     margin: 0;
     text-indent: -10000px;
-    background: url(creative-resources/slices/images/logo.png) no-repeat;
+    background: url(creative-resources/slices/images/images/logo.png) no-repeat;
     width: 130px;
     float: left;
   }
@@ -146,7 +146,7 @@ header nav {
      margin-top: 60px;
      width: 60%;
      padding: 40px 20%;
-     background: url(creative-resources/slices/images/quote.png) no-repeat center 20px;
+     background: url(creative-resources/slices/images/images/quote.png) no-repeat center 20px;
      background-color: #efefef;
      color: #4e4e4e;
      font-size: 20px;
