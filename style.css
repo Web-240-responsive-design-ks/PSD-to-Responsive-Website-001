@@ -82,7 +82,7 @@ header nav {
 
    #selling-points li {
      float: left;
-     widows: 23%;
+     width: 23%;
      padding: 1%;
      text-align: center;
      list-style-type: none;
